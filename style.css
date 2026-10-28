@@ -1,0 +1,85 @@
+body{
+  background-color:#63C5DA;;
+}
+.title {
+	color: #5C6AC4;
+}
+
+.formbox{
+  
+  margin-left: 40px;
+  margin-top:30px;
+  background-color: white;
+  height: 500px;
+  width: 400px;
+  border:none;
+  border-radius:10px;
+  box-shadow:3px 3px 2px;
+}
+.formbox h2{
+  text-align: center;
+  position: relative;
+  top:60px;
+  font-size:32px;
+  font-style:bold;
+  color:black;
+}
+#input1{
+  
+  margin-left: 40px;
+  margin-top:80px;
+  padding: 3px 80px;
+  border-left: none;
+  border-top:none;
+  border-right: none;
+  color:black;
+  outline:none;
+}
+#input2{
+ margin-left:30px;
+  padding: 3px 82px;
+  border-left: none;
+  border-top:none;
+  border-right: none;
+  color:black;
+  outline:none;
+}
+button{
+  margin-top: 20px;
+  margin-left:80px;
+padding: 6px 100px;
+border: none;
+ font-size: 0.9rem;
+  font-weight: 700;
+  
+  border-radius:50px;
+  cursor: pointer;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  transition: all 0.2s ease;
+  background: linear-gradient(135deg, #7c6fff, #b851ff);
+  color: #ffffff;
+  box-shadow: 0 6px 16px rgba(124,111,255,0.35);
+}
+#para1{
+  margin-left:130px;
+   color:gray;
+}
+#para1 a{
+  margin-left: 3px;
+  text-decoration: none;
+  color:#63C5DA;
+}
+#para2{
+  margin-top: 30px;
+  margin-left:110px;
+   color:gray;
+}
+#para2 a{
+  margin-left: 3px;
+  text-decoration: none;
+  color:#63C5DA;;
+}
